@@ -1,0 +1,23 @@
+name = input('What Is Your Name? ')
+print('Hi ' + name)
+
+age = input('How Old Are You? ')
+print('You are ' + age)
+
+email = input('Enter Your email: ')
+str(email)
+print('Is this the email?')
+print(email)
+
+answer = input('True or False? ')
+
+Dang = input('Enter A Password: ')
+Dangie = input('Re-enter Password: ')
+
+print('Is this the password?')
+print(Dang)
+
+answer = input('Yes or No? ')
+
+print('Success')
+print('Welcome To The Website')
